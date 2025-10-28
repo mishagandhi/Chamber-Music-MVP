@@ -141,10 +141,10 @@ harmony-generator/
 
 ## 🌐 Browser Support
 
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
+| 🟢 Chrome | 90+ |
+| 🦊 Firefox | 88+ | 
+| 🍏 Safari | 14+ |
+| 🪟 Edge | 90+ | 
 
 ## 📝 License
 
