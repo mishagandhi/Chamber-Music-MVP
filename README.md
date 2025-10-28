@@ -141,10 +141,10 @@ harmony-generator/
 
 ## 🌐 Browser Support
 
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
+| 🟢 Chrome | 90+ 
+| 🦊 Firefox | 88+ 
+| 🍏 Safari | 14+ 
+| 🪟 Edge | 90+ 
 
 ## 📝 License
 
@@ -175,6 +175,10 @@ For issues or questions:
 - [ ] Export harmonies as MIDI/PDF formats
 - [ ] Mobile responsive design improvements
 - [ ] Dark mode implementation
+
+
+
+
 
 ---
 
